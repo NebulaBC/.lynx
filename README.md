@@ -3,4 +3,4 @@ My Lynx web browser config for the 21st century. This repository is made to just
 
 `bash -c "$(curl -s https://lynx.neb.cx/setup.sh)"`
 
-.lynx should work on any *nix machine that has sudo, if it does not work, just look at the script you're smart enough to figure it out.
+.lynx should work on any *nix machine that has sudo. If it does not work, just look at the script you're smart enough to figure it out.
